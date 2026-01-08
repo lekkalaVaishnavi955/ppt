@@ -65,8 +65,13 @@ const Slide: React.FC<SlideProps> = ({
             <img
               src={getImageSrc(slide.image || "/assets/react.svg")}
               alt="Slide visual"
-              className="w-full h-full object-cover cursor-pointer hover:opacity-90"
-              style={{ minHeight: "250px" }}
+              className="mx-auto my-auto object-contain rounded shadow cursor-pointer hover:opacity-90"
+              style={{
+                maxWidth: "350px",
+                maxHeight: "350px",
+                width: "100%",
+                height: "auto",
+              }}
               onClick={() => setActiveProject(0)}
             />
           )
