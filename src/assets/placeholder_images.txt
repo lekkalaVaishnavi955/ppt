@@ -1,0 +1,20 @@
+# Placeholder images for presentation slides
+# You can replace these with your own images if desired
+
+- career-growth.jpg: https://images.unsplash.com/photo-1506744038136-46273834b3fb
+- job-prep.jpg: https://images.unsplash.com/photo-1461749280684-dccba630e2f6
+- tap-academy.jpg: https://images.unsplash.com/photo-1513258496099-48168024aec0
+- competition.jpg: https://images.unsplash.com/photo-1465101046530-73398c7f28ca
+- technologies.jpg: https://images.unsplash.com/photo-1519389950473-47ba0277781c
+- projects.jpg: https://images.unsplash.com/photo-1482062364825-616fd23b8fc1
+- military-1.jpg: https://images.unsplash.com/photo-1465101178521-c1a2b1c0bdf2
+- military-2.jpg: https://images.unsplash.com/photo-1465101046530-73398c7f28ca
+- portfolio-1.jpg: https://images.unsplash.com/photo-1515378791036-0648a3ef77b2
+- portfolio-2.jpg: https://images.unsplash.com/photo-1519389950473-47ba0277781c
+- interview.jpg: https://images.unsplash.com/photo-1503676382389-4809596d5290
+- interview-details.jpg: https://images.unsplash.com/photo-1461749280684-dccba630e2f6
+- expo.jpg: https://images.unsplash.com/photo-1519125323398-675f0ddb6308
+- typeform.jpg: https://images.unsplash.com/photo-1519125323398-675f0ddb6308
+- typeform-1.jpg: https://images.unsplash.com/photo-1519125323398-675f0ddb6308
+- typeform-2.jpg: https://images.unsplash.com/photo-1519125323398-675f0ddb6308
+- future.jpg: https://images.unsplash.com/photo-1465101178521-c1a2b1c0bdf2
