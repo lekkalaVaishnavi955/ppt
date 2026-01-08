@@ -1,4 +1,3 @@
-// Dynamically import all images from src/assets/typeform
 const typeformImages = import.meta.glob("../assets/typeform/*", {
   eager: true,
   as: "url",
@@ -61,8 +60,6 @@ const ProjectCarousel: React.FC<ProjectCarouselProps> = ({
 
   const imgSrc = getImageSrc(images[current]);
 
-  // Detect if current image is a Typeform asset
-  const isTypeform = imgSrc.includes("/assets/typeform/");
   return (
     <div className="relative w-full h-[60vh] md:h-[80vh] flex items-center justify-center touch-pan-x bg-black">
       <img
