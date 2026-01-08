@@ -1,7 +1,4 @@
-[build]
-  base = "ppt"
-  publish = "dist"
-  command = "npm run build"
+
 
 [[redirects]]
   from = "/*"
